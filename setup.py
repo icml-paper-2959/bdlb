@@ -41,7 +41,7 @@ setup(
         "seaborn==0.9.0",
         "scikit-learn==0.21.3",
         "kaggle==1.5.6",
-        "opencv-python==4.1.1.26",
+        "opencv-python==4.2.0.32",
         "tensorflow-gpu==2.0.0",
         "tensorflow-probability==0.8.0",
         "tensorflow-datasets==1.2.0",
