@@ -34,7 +34,7 @@ setup(
     license="Apache-2.0",
     packages=find_packages(),
     install_requires=[
-        "numpy==1.17.2",
+        "numpy==1.22.0",
         "scipy==1.3.1",
         "pandas==0.25.1",
         "matplotlib==3.1.1",
